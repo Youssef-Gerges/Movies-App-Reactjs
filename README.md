@@ -5,4 +5,4 @@ A very simple app developed with reactjs and omdbapi to search about movies and 
 - clone the repository.
 - exec command: npm install
 - exec command: npm start
-and enjoy the app.
+- enjoy the app.
